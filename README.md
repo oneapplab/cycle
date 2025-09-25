@@ -8,7 +8,7 @@ The development of software is itself a cycle—one you should refine and improv
 
 ## Core Principles
 1. **No Backlog**
-   - Only plan for the **Current Cycle**. we believe more than 90% of focus should be on current cycle and less than 10 percent on whats coming after current cycle which we call **Next Cycle**
+   - Only plan for the **Current Cycle**. We believe that more than 90% of the focus should be on the current cycle and less than 10% on what’s coming after the current cycle, which we call the **Next Cycle**.
    - Use the **Next Cycle** for short-term vision only.
    - Tasks depending on external work should not be created unless that work will be ready for the next cycle.
 
@@ -33,17 +33,17 @@ The development of software is itself a cycle—one you should refine and improv
 
 ### Developers
 - **Share responsibility for what enters the cycle**—question unclear requirements and provide feasibility feedback. 
-- Collaborate with VAs, QA, and project managers to clarify or **propose tasks for the Next Cycle**.  
+- Collaborate with VAs, QAs, and project managers to clarify or **propose tasks for the Next Cycle**.  
 - Implement tasks defined for the current cycle according to specifications and Definition of Done.
 - Actively surface technical risks or dependencies that could affect future cycles.
- - Accountable for tasks entering the cycle—reviewing and **challenging unclear or incomplete requirements**.  
+- Accountable for tasks entering the cycle—reviewing and **challenging unclear or incomplete requirements**.  
 - May **define tasks for the Next Cycle** themselves with project manager coordination if needed.  
 
 ### Visionary Architects (VAs)
 - **VAs** for visual tasks, along side writing concise task descriptions, designs views as well.
   - The clearer and more self-explanatory the design, the shorter and more precise the task can be.
 - For non-visual projects, VAs should have **technical knowledge** to define what is being built.
-- the focus of VAs should be next cycle tasks
+- The focus of VAs should be next cycle tasks
 - Work with developers, and project managers to **define or refine tasks for the Next Cycle** based on quality insights.
 - Ensure requirements, designs, and expected outcomes are prepared before planning.
 
@@ -90,6 +90,7 @@ You can apply as many labels as you find useful, but **Cycle** defines two prima
 - **Vision Drift** – A task that remains in **Next** for multiple cycles without ever moving to **Current**.  
   - Suggests misuse of **Next** as a backlog or unclear upcoming priorities.  
   - May also indicate misalignment between planning and business goals if many tasks are deferred repeatedly.
+
 ## Board Structure
 The board structure are completely optional but having these columns might help:
 1. **Next**
